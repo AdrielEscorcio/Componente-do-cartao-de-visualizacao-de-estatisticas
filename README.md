@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/desktop.jpeg)
-![](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/mobile.jpeg)
+![DESKTOP](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/desktop.jpeg)
+![MOBILE](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/mobile.jpeg)
 
 
 ### Links
