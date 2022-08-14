@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Site URL: [site URL](https://adrielescorcio.github.io/Componente-do-cartao-de-visualizacao-de-estatisticas/)
+- Site URL: [Solução - tats preview card component solution](https://adrielescorcio.github.io/Componente-do-cartao-de-visualizacao-de-estatisticas/)
 
 ### Built with
 
