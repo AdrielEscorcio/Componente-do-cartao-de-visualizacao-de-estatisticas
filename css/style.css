@@ -43,7 +43,6 @@ h1, strong {
     grid-template-rows: 1fr 1fr;
     max-width: 1000px;
     border-radius: 10px;
-    
 }
 
 .ilustracao {
@@ -80,6 +79,7 @@ h1, strong {
 
 .informacoes p {
     margin-bottom: 40px;
+    line-height: 25px;
 }
 
 .informacoes span {
@@ -100,4 +100,49 @@ h1, strong {
     font-size: 20px;
     color: hsl(0, 0%, 100%); 
     margin-bottom: 5px;
+}
+
+@media (max-width: 500px){
+    .conteiner {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        margin: 5px 30px;
+        
+    }
+
+    .ilustracao {
+        grid-column: 1;
+        grid-row: 1;
+        background-image: url(../images/image-header-mobile.jpg);
+        /* grid-column: 1;
+        grid-row: 1 / 2; */
+        height: 290px;
+        border-radius: 10px 10px 0 0;
+    
+    }
+
+    .ilustracao-cor {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .informacoes {
+        grid-column: 1;
+        grid-row: 2 / 3;
+        text-align: center;
+        padding: 60px;
+        /* grid-column: 2;
+        grid-row: 1 / 2; */
+        /* margin-top: 400px;  */
+    }
+
+    .informacoes p {
+        margin-bottom: 20px;
+    }
+
+    .dados {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+
 }
