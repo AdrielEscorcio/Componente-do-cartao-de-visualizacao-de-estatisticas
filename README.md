@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](../captura/desktop.jpg)
-![](../captura/mobile.jpg)
+![](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/desktop.jpeg)
+![](https://github.com/AdrielEscorcio/Componente-do-cartao-de-visualizacao-de-estatisticas/blob/master/capturas/mobile.jpeg)
 
 
 ### Links
